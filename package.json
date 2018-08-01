@@ -1,0 +1,22 @@
+{
+  "name": "placement-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katrina112/placement-report.git"
+  },
+  "author": "katrina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katrina112/placement-report/issues"
+  },
+  "homepage": "https://github.com/katrina112/placement-report#readme",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
